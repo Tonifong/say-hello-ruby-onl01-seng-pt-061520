@@ -3,3 +3,5 @@
 def say_hello(name="kent Beck")
   puts "Hello Kent Beck!"
 end
+def say_hello(language="Ruby Programmer")
+  puts "Hello Ruby Programmer"
