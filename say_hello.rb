@@ -2,4 +2,5 @@
 
 def say_hello(name="kent Beck")
   puts "Hello Kent Beck!"
+  return"Hello Ruby Programer!"
 end
